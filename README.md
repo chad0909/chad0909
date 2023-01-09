@@ -1,6 +1,6 @@
 # GiWook's Github 👋
 
-🌱blog: <a href="https://velog.io/@077tech" target="_blank"><img src="![velog](https://user-images.githubusercontent.com/108044639/211229002-d621ffcf-ab28-44c3-81d4-fc20076b2e00.svg)
+🌱blog: <a href="https://velog.io/@077tech" target="_blank"><img src="https://user-images.githubusercontent.com/108044639/211229002-d621ffcf-ab28-44c3-81d4-fc20076b2e00.svg
 "/></a> 🌱
 
 ![GiWook's GitHub stats](https://github-readme-stats.vercel.app/api?username=chad0909&show_icons=true&theme=highcontrast)
