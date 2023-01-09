@@ -1,5 +1,6 @@
 
-🌱 CONTACT 🌱 \n
+🌱 CONTACT 🌱 
+
 <a href="https://velog.io/@077tech" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/giwookchadleeeeeeeee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
